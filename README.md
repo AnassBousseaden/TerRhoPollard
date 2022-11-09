@@ -21,7 +21,7 @@ la méthode de Pollard.
 Références :
 — Jung Hee Cheon, Jin Hong, and Minkyu Kim, Speeding Up the Pollard
 Rho Method on Prime Fields, 
-[](http://www.math.snu.ac.kr/~jhcheon/publications/2008/TTDLP_A08_CheonHongKim.pdf)
+[article](http://www.math.snu.ac.kr/~jhcheon/publications/2008/TTDLP_A08_CheonHongKim.pdf)
 
 
 Alexandre Bousquet [Théo Bruyat](https://github.com/TheoB21) [Vladimir Sarde](https://github.com/)
